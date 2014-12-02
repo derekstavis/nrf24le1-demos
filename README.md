@@ -16,4 +16,4 @@ Tool dependencies
 -----------------
 
 You need `hex2image` tool to convert 8051 hex files into binary code. If you 
-want, you can grab it from [my repo](ghttps://github.com/derekstavis/hex2image.git).
+want, you can grab it from [my repo](ghttps://github.com/derekstavis/hex2image).
